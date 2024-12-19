@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctors>
+    <Doctor>
+      <Id>2</Id>
+      <FirstName>ощфщшовфы</FirstName>
+      <LastName>фвозщфыов</LastName>
+      <MiddleName>фыввыф</MiddleName>
+      <DepartmentId>1</DepartmentId>
+      <Specialty>Лечащий врач</Specialty>
+    </Doctor>
+    <Doctor>
+      <Id>3</Id>
+      <FirstName>ррщфырвщоф</FirstName>
+      <LastName>вофцшовдцофв</LastName>
+      <MiddleName>цфвшшоцфшв</MiddleName>
+      <DepartmentId>1</DepartmentId>
+      <Specialty>Гинеколог</Specialty>
+    </Doctor>
+  </Doctors>
+  <Nurses>
+    <Nurse>
+      <Id>4</Id>
+      <FirstName>цфвфцвццвцф</FirstName>
+      <LastName>цфввфвцц</LastName>
+      <MiddleName>фвцффвцвфццв</MiddleName>
+      <DepartmentId>1</DepartmentId>
+    </Nurse>
+  </Nurses>
+  <Departments>
+    <Department>
+      <Id>1</Id>
+      <Name>Генекологическое</Name>
+      <Doctors />
+      <Nurses />
+      <Patients />
+      <MedicationTypes>
+        <MedicationAppointment>
+          <Id>0</Id>
+          <Name>isjadjas</Name>
+          <Quantity>12</Quantity>
+          <Dosage>2</Dosage>
+        </MedicationAppointment>
+      </MedicationTypes>
+      <DiagnosticTypes />
+      <PreventiveTypes />
+    </Department>
+  </Departments>
+  <Patients />
+  <Appointments>
+    <Appointment>
+      <Id>2</Id>
+      <Description>рфщрвщшоыфщшовшоыфщовщзфоы</Description>
+      <PatientId>2</PatientId>
+      <PersonnelId>3</PersonnelId>
+      <Status>Выполнено</Status>
+      <AppointmentType xsi:type="DiagnosticAppointment">
+        <Id>0</Id>
+      </AppointmentType>
+      <AppointmentTime>2024-12-19T15:33:13.966105+03:00</AppointmentTime>
+    </Appointment>
+  </Appointments>
+  <IdSaving>
+    <PersonId>4</PersonId>
+    <DepartmentId>1</DepartmentId>
+    <PatientId>2</PatientId>
+    <AppointmentId>3</AppointmentId>
+  </IdSaving>
+</Hospital>

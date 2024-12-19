@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctors />
+  <Nurses />
+  <Departments />
+  <Patients />
+  <Appointments />
+  <IdSaving>
+    <PersonId>1</PersonId>
+    <DepartmentId>1</DepartmentId>
+    <PatientId>1</PatientId>
+    <AppointmentId>1</AppointmentId>
+  </IdSaving>
+</Hospital>

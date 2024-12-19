@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\forms\\otherdoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\otherdoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\dataaccess\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\dataaccess\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\dataaccess\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\dataaccess\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\forms\\treatingdoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\treatingdoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\forms\\editdiagnosticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\editdiagnosticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\forms\\editdepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\editdepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|C:\\Users\\nagat\\source\\repos\\HospitalProject\\hospitalproject\\forms\\editdepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\editdepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\dataaccess\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\dataaccess\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|c:\\users\\nagat\\source\\repos\\hospitalproject\\hospitalproject\\forms\\dutydepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3264DC65-4BB0-4488-9766-782F1E0C7257}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\forms\\dutydepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\DataAccess\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "HospitalProject\\DataAccess\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:30:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\DataAccess\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "HospitalProject\\DataAccess\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:30:18.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OtherDoctorForm.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\OtherDoctorForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\OtherDoctorForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\OtherDoctorForm.cs",
+              "RelativeToolTip": "HospitalProject\\Forms\\OtherDoctorForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswC4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:28:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreatingDoctorForm.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\TreatingDoctorForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\TreatingDoctorForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\TreatingDoctorForm.cs",
+              "RelativeToolTip": "HospitalProject\\Forms\\TreatingDoctorForm.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv5EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:57:40.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditDiagnosticForm.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDiagnosticForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\EditDiagnosticForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDiagnosticForm.cs",
+              "RelativeToolTip": "HospitalProject\\Forms\\EditDiagnosticForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:57:25.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditDepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HospitalProject\\Forms\\EditDepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:56:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditDepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "RelativeToolTip": "HospitalProject\\Forms\\EditDepartmentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:55:24.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\DataAccess\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\DataAccess\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "HospitalProject\\DataAccess\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:53:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Services\\Implementations\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Services\\Implementations\\PatientService.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Services\\Implementations\\PatientService.cs",
+              "RelativeToolTip": "HospitalProject\\Services\\Implementations\\PatientService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:53:32.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DutyDepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\DutyDepartmentForm.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Forms\\DutyDepartmentForm.cs",
+              "ToolTip": "C:\\Users\\nagat\\source\\repos\\HospitalProject\\HospitalProject\\Forms\\DutyDepartmentForm.cs",
+              "RelativeToolTip": "HospitalProject\\Forms\\DutyDepartmentForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:51:15.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
